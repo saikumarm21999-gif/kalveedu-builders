@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saikumarm21999-gif.github.io/kalveedu-builders/sitemap.xml
